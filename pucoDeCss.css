@@ -1,0 +1,12 @@
+#textoPrincipal {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 40;
+  font-weight: bold;
+  background-color: rgb(43, 144, 226);
+  color: aliceblue;
+  padding: 19px;
+}
+.fundoVermelho {
+  background-color: rgb(230, 30, 30);
+}
